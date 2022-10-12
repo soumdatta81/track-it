@@ -10,9 +10,8 @@ You can add your progress to the list.
 
 Steps to add your progress : 
 - Star the repository
-- Fork the project
-- Create a new branch
-- Make a folder of your name and add the progress day wise.
+- Click on add file
+- Add your name and edit your progress.
 - Commit Changes
 - Create a Pull Request
 
