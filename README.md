@@ -6,9 +6,10 @@ A repository where you share your progress and make a PR!
 
 Contributions are always welcome!
 
-You can add your name to the list and, optionally, a link to your GitHub account below.
+You can add your progress to the list.
 
-Steps to add your name : 
+Steps to add your progress : 
+- Star the repository
 - Fork the project
 - Create a new branch
 - Make a folder of your name and add the progress day wise.
